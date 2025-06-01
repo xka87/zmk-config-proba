@@ -20,4 +20,4 @@
 ---
 include:
   - board: bluemicro840_v1
-    shield: two_percent_milk
+    shield: proba
